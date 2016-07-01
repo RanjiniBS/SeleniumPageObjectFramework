@@ -1,0 +1,4 @@
+﻿global:
+    browser     : firefox
+    url         : "http://jqueryui.com/"
+    browserpxl  : 1480
